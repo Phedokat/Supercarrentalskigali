@@ -1,0 +1,24 @@
+a{color: black;text-align: end; }
+body{background-image: url(wallpaper\ 3.jpg);background-position: center; background-attachment: fixed;background-repeat: no-repeat;;}
+h1{text-align:left; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 350%;}
+img{width: 300px;}
+#head{color: red; text-align: center;text-transform: capitalize; font-family: 'Courier New', Courier, monospace; font-size: 600%;background-image: url(wallpaper\ 3.jpg); background-position: center;padding: 560px;background-attachment: fixed;}
+tr{border: solid red;}
+
+table{width: 100%;}
+#nav {background-color: rgb(19, 51, 33);overflow: hidden;}
+#nav a{color: rgb(235, 225, 225);padding: auto;text-decoration: solid;width:400% ;}
+#nav :hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(19, 51, 33);
+}
+#nav1 {background-color: brown;overflow: hidden;}
+#nav1 a{color: rgb(235, 225, 225);padding: auto;text-decoration: solid;width:400% ;}
+#nav1 :hover{
+    background-color: rgb(0, 0, 0);
+    color: brown;
+}
+button{size: 700%;background-color: aqua;text-align: right;}
+h2{color: chartreuse;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;background-color: black;font-size: xx-large;}
+h3{color: red;background-color: aliceblue;}
+#text{color: rgb(29, 180, 185);font-size: 300%;background-color: rgb(0, 0, 0);}
